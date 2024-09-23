@@ -25,3 +25,4 @@ Cloud Containerization Don't be afraid to give up the good to go for the great. 
 IoT Python Artificial Intelligence JWT Content Delivery Network The only way to do great work is to love what you do. Automation
 Replica Set Distributed Systems Kafka Testing Message Queue Event Sourcing Code Review Frontend API Gateway IoT Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. React
 Serverless Cloud Functions Predictive Analytics Monitoring Logging Scalability UX Optimization Simplicity is the ultimate sophistication. Replica Set Kafka Version Control Distributed Systems Latency Optimization
+Act as if what you do makes a difference. It does. GraphQL Work hard in silence, let your success be your noise. Quantum Computing DNS Routing Success doesn’t just find you. You have to go out and get it. OAuth Data Pipeline Innovation distinguishes between a leader and a follower. Database Replica Set Parallel Processing
