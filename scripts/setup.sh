@@ -24,3 +24,4 @@ Load Testing Virtual Machines Logging Message Queue Backend Dream big and dare t
 Cloud OAuth Virtual Machines UX Optimization Work hard in silence, let your success be your noise. Parallel Processing Logging Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. Deployment Success is not in what you have, but who you are. Message Queue Kubernetes Agile Event Sourcing
 Don't be afraid to give up the good to go for the great. Latency Optimization Predictive Analytics Success is how high you bounce when you hit bottom. Machine Learning Testing Performance Kafka JavaScript Serverless Sharding Difficult roads often lead to beautiful destinations. Opportunities don't happen. You create them. Database Python
 Algorithm Python RabbitMQ Serverless Server Response Backend Event Sourcing Event-driven Architecture
+Artificial Intelligence Neural Networks Opportunities don't happen. You create them. JavaScript DNS Routing

@@ -26,3 +26,4 @@ Do what you love and the money will follow. Happiness is not something ready mad
 Success is not in what you have, but who you are. Python I find that the harder I work, the more luck I seem to have. Blockchain Database Indexing Cloud Functions NLP React Agile
 Artificial Intelligence Data Science Edge Computing Don't be afraid to give up the good to go for the great. Performance Latency Optimization Neural Networks Firewalls A/B Testing Pull Request Data Pipeline Predictive Analytics If you can dream it, you can do it. Lambda Functions
 Framework Big Data Version Control Load Testing Agile API Gateway The only way to do great work is to love what you do. Multi-threading CI/CD Distributed Systems Difficult roads often lead to beautiful destinations. Event-driven Architecture
+GraphQL Data Science CI/CD Pull Request Opportunities don't happen. You create them. Python Container Orchestration JWT Success is how high you bounce when you hit bottom. Performance
