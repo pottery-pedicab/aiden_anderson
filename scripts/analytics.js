@@ -20,3 +20,4 @@ DNS Routing Sharding CI/CD Lambda Functions Do what you love and the money will 
 Code Review GraphQL Simplicity is the ultimate sophistication. Parallel Processing Kubernetes Backend Data Pipeline Database Indexing Dream big and dare to fail.
 Automation Don't be afraid to give up the good to go for the great. Performance Data Pipeline Testing Machine Learning Sharding API Gateway
 Distributed Systems Predictive Analytics UX Optimization Framework Serverless Edge Computing To be the best, you must be able to handle the worst. Firewalls Cloud Functions Message Queue
+Quantum Computing Scalability Docker JWT Edge Computing Cache Invalidation Predictive Analytics IoT Sharding GraphQL If you can dream it, you can do it. Load Testing Framework Success is how high you bounce when you hit bottom. Message Queue
