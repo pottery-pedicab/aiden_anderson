@@ -24,3 +24,4 @@ Container Orchestration Event Sourcing Blockchain CI/CD Happiness is not somethi
 Great things never come from comfort zones. Python DevOps Multi-threading Automation OAuth NLP Work hard in silence, let your success be your noise. React Kubernetes
 Quantum Computing Distributed Systems Kafka Message Queue A/B Testing CI/CD
 Predictive Analytics Load Balancing Monitoring Firewalls JWT Success doesn’t just find you. You have to go out and get it. API Docker Data Science Machine Learning IoT Success is how high you bounce when you hit bottom. Difficult roads often lead to beautiful destinations.
+Big Data Edge Computing Load Testing CI/CD Database Indexing Data Science Opportunities don't happen. You create them.
