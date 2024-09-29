@@ -17,3 +17,4 @@ Automation Happiness is not something ready made. It comes from your own actions
 Deployment Containerization Act as if what you do makes a difference. It does. API Gateway Firewalls
 Data Pipeline CI/CD Latency Optimization Success usually comes to those who are too busy to be looking for it. Parallel Processing Don't be afraid to give up the good to go for the great. Zero Downtime Deployment To be the best, you must be able to handle the worst. Python JWT Testing
 Work hard in silence, let your success be your noise. Database Indexing Automation API Gateway Dream big and dare to fail. Code Review
+Scalability Success is how high you bounce when you hit bottom. Data Science Security RabbitMQ Logging Content Delivery Network Lambda Functions Blockchain Simplicity is the ultimate sophistication. Pull Request Success doesn’t just find you. You have to go out and get it.
