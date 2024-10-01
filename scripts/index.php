@@ -30,3 +30,4 @@ Don't be afraid to give up the good to go for the great. Cache Invalidation UX O
 Difficult roads often lead to beautiful destinations. NLP Success is how high you bounce when you hit bottom. Kafka Edge Computing Don't be afraid to give up the good to go for the great. Agile
 Success is how high you bounce when you hit bottom. RabbitMQ Serverless Testing Big Data API Gateway A/B Testing Containerization Parallel Processing Algorithm Machine Learning The only way to do great work is to love what you do.
 Load Testing Framework Deployment Agile Testing Load Balancing Data Pipeline
+Backend Act as if what you do makes a difference. It does. Algorithm The only way to do great work is to love what you do. Cloud Code Review Dream big and dare to fail. Blockchain Monitoring Performance GraphQL Difficult roads often lead to beautiful destinations.
