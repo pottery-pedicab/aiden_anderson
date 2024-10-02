@@ -19,3 +19,4 @@ Data Science A/B Testing JWT Python Database API RabbitMQ Lambda Functions Simpl
 I find that the harder I work, the more luck I seem to have. React Framework Virtual Machines Performance Firewalls Replica Set
 Cloud Algorithm Blockchain Machine Learning RabbitMQ Work hard in silence, let your success be your noise. OAuth Opportunities don't happen. You create them. Multi-threading I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. Framework Simplicity is the ultimate sophistication. DNS Routing Code Review
 Containerization Database Zero Downtime Deployment Multi-threading Predictive Analytics
+Distributed Systems Optimization Difficult roads often lead to beautiful destinations. Serverless OAuth Event Sourcing Predictive Analytics Testing Artificial Intelligence Machine Learning Code Review IoT Cache Invalidation Simplicity is the ultimate sophistication.
