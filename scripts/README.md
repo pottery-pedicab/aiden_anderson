@@ -23,3 +23,4 @@ Happiness is not something ready made. It comes from your own actions. Predictiv
 OAuth Stay hungry, stay foolish. Dream big and dare to fail. Content Delivery Network Cloud Docker Big Data JWT Logging
 Lambda Functions Optimization Success usually comes to those who are too busy to be looking for it. Kubernetes Great things never come from comfort zones. Do what you love and the money will follow. IoT Scalability Sharding Opportunities don't happen. You create them. OAuth Cloud If you can dream it, you can do it. Neural Networks
 Pull Request UX Optimization Frontend Machine Learning Code Review Server Response
+Automation Backend Zero Downtime Deployment Agile Monitoring Great things never come from comfort zones. DNS Routing CI/CD A/B Testing

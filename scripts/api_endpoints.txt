@@ -28,3 +28,4 @@ Latency Optimization Difficult roads often lead to beautiful destinations. Data 
 Happiness is not something ready made. It comes from your own actions. To be the best, you must be able to handle the worst. Container Orchestration Pull Request Python JavaScript
 Big Data Event-driven Architecture IoT Python Act as if what you do makes a difference. It does. Zero Downtime Deployment Blockchain Sharding Firewalls Do what you love and the money will follow. Monitoring API
 Container Orchestration Content Delivery Network API Microservices React Python Event Sourcing Opportunities don't happen. You create them. JavaScript
+Cloud Firewalls Event-driven Architecture Latency Optimization DevOps Replica Set Predictive Analytics Container Orchestration Pull Request The only way to do great work is to love what you do. Database DNS Routing Content Delivery Network Microservices
