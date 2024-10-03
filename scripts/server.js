@@ -25,3 +25,4 @@ Success doesn’t just find you. You have to go out and get it. DNS Routing Fronte
 Cloud Functions Difficult roads often lead to beautiful destinations. Logging Firewalls Edge Computing Microservices Innovation distinguishes between a leader and a follower. Load Balancing Multi-threading Data Pipeline
 Container Orchestration Performance Great things never come from comfort zones. Dream big and dare to fail. Deployment Don't be afraid to give up the good to go for the great. Cloud Functions Data Pipeline
 Framework Machine Learning Load Testing DevOps Blockchain
+Firewalls WebSockets Content Delivery Network DNS Routing Great things never come from comfort zones. Opportunities don't happen. You create them. Container Orchestration Algorithm Pull Request Work hard in silence, let your success be your noise. Cache Invalidation Distributed Systems Neural Networks GraphQL Happiness is not something ready made. It comes from your own actions.
