@@ -27,3 +27,4 @@ Big Data Deployment Multi-threading Success usually comes to those who are too b
 Latency Optimization Difficult roads often lead to beautiful destinations. Data Science Container Orchestration Stay hungry, stay foolish. Python
 Happiness is not something ready made. It comes from your own actions. To be the best, you must be able to handle the worst. Container Orchestration Pull Request Python JavaScript
 Big Data Event-driven Architecture IoT Python Act as if what you do makes a difference. It does. Zero Downtime Deployment Blockchain Sharding Firewalls Do what you love and the money will follow. Monitoring API
+Container Orchestration Content Delivery Network API Microservices React Python Event Sourcing Opportunities don't happen. You create them. JavaScript

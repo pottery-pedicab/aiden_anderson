@@ -18,3 +18,4 @@ API Gateway Success usually comes to those who are too busy to be looking for it
 Data Science A/B Testing JWT Python Database API RabbitMQ Lambda Functions Simplicity is the ultimate sophistication. Load Testing Message Queue
 I find that the harder I work, the more luck I seem to have. React Framework Virtual Machines Performance Firewalls Replica Set
 Cloud Algorithm Blockchain Machine Learning RabbitMQ Work hard in silence, let your success be your noise. OAuth Opportunities don't happen. You create them. Multi-threading I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. Framework Simplicity is the ultimate sophistication. DNS Routing Code Review
+Containerization Database Zero Downtime Deployment Multi-threading Predictive Analytics
