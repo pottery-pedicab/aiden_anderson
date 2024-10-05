@@ -18,3 +18,4 @@ Innovation distinguishes between a leader and a follower. Containerization DNS R
 React Automation Data Pipeline NLP Backend Act as if what you do makes a difference. It does. To be the best, you must be able to handle the worst. Neural Networks Testing Server Response Framework
 Load Balancing Cloud A/B Testing Dream big and dare to fail. Python Containerization Microservices CI/CD Database The only way to do great work is to love what you do.
 IoT Parallel Processing Multi-threading Cloud Functions Automation Replica Set Scalability JWT Virtual Machines Serverless Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them. Algorithm Big Data
+Edge Computing Algorithm Firewalls Opportunities don't happen. You create them. Docker Dream big and dare to fail. Big Data Containerization Success is not in what you have, but who you are. Sharding React A/B Testing Content Delivery Network
