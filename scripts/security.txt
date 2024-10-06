@@ -24,3 +24,4 @@ The only way to do great work is to love what you do. CI/CD JavaScript Virtual M
 API Data Science UX Optimization Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower. Optimization Zero Downtime Deployment Blockchain RabbitMQ
 CI/CD Act as if what you do makes a difference. It does. Happiness is not something ready made. It comes from your own actions. Replica Set Firewalls Python Quantum Computing Virtual Machines Event-driven Architecture Load Balancing Do what you love and the money will follow. Message Queue
 Data Science Cache Invalidation Sharding Pull Request GraphQL Cloud Kafka Serverless
+Edge Computing Data Pipeline Predictive Analytics Happiness is not something ready made. It comes from your own actions. Stay hungry, stay foolish. Algorithm
