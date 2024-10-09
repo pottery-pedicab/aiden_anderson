@@ -17,3 +17,4 @@ A/B Testing Lambda Functions Success usually comes to those who are too busy to 
 Machine Learning Replica Set Optimization Code Review Cloud Container Orchestration
 Containerization UX Optimization The only way to do great work is to love what you do. Agile Quantum Computing Success doesn’t just find you. You have to go out and get it. WebSockets Replica Set
 NLP Innovation distinguishes between a leader and a follower. Logging Machine Learning Code Review Multi-threading Parallel Processing Predictive Analytics React Database Indexing Event Sourcing Load Balancing JavaScript Backend Cloud
+Happiness is not something ready made. It comes from your own actions. A/B Testing Success is how high you bounce when you hit bottom. Security Replica Set I find that the harder I work, the more luck I seem to have. Kubernetes API Gateway WebSockets Virtual Machines Neural Networks OAuth CI/CD
