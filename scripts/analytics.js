@@ -18,3 +18,4 @@ Virtual Machines Parallel Processing DNS Routing Lambda Functions Sharding Versi
 Pull Request Testing GraphQL Virtual Machines The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. Serverless Data Science
 DNS Routing Sharding CI/CD Lambda Functions Do what you love and the money will follow. Quantum Computing Database Artificial Intelligence Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Algorithm Event-driven Architecture Act as if what you do makes a difference. It does.
 Code Review GraphQL Simplicity is the ultimate sophistication. Parallel Processing Kubernetes Backend Data Pipeline Database Indexing Dream big and dare to fail.
+Automation Don't be afraid to give up the good to go for the great. Performance Data Pipeline Testing Machine Learning Sharding API Gateway
