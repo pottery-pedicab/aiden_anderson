@@ -16,3 +16,4 @@ Data Pipeline Difficult roads often lead to beautiful destinations. Multi-thread
 A/B Testing Lambda Functions Success usually comes to those who are too busy to be looking for it. Load Testing Microservices
 Machine Learning Replica Set Optimization Code Review Cloud Container Orchestration
 Containerization UX Optimization The only way to do great work is to love what you do. Agile Quantum Computing Success doesn’t just find you. You have to go out and get it. WebSockets Replica Set
+NLP Innovation distinguishes between a leader and a follower. Logging Machine Learning Code Review Multi-threading Parallel Processing Predictive Analytics React Database Indexing Event Sourcing Load Balancing JavaScript Backend Cloud
