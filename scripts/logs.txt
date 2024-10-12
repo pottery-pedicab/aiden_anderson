@@ -22,3 +22,4 @@ Logging Event Sourcing A/B Testing DevOps Cloud Functions
 Performance Firewalls JavaScript Success is how high you bounce when you hit bottom. Frontend Happiness is not something ready made. It comes from your own actions. Neural Networks Optimization The only way to do great work is to love what you do. Stay hungry, stay foolish. Python Load Testing Blockchain Logging
 Security Optimization JavaScript Cache Invalidation Big Data Difficult roads often lead to beautiful destinations.
 Cloud Containerization Don't be afraid to give up the good to go for the great. Load Testing Sharding Success is how high you bounce when you hit bottom. Replica Set Dream big and dare to fail. Data Pipeline
+IoT Python Artificial Intelligence JWT Content Delivery Network The only way to do great work is to love what you do. Automation
