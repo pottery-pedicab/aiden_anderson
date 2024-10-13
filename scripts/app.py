@@ -12,3 +12,4 @@ Testing Firewalls GraphQL Message Queue CI/CD Success doesn’t just find you. You
 IoT Lambda Functions Containerization Big Data Sharding Framework Simplicity is the ultimate sophistication. Microservices Machine Learning Container Orchestration Opportunities don't happen. You create them. Optimization
 Scalability OAuth Performance Opportunities don't happen. You create them. Security Deployment API
 Great things never come from comfort zones. Version Control Quantum Computing Pull Request Lambda Functions Message Queue Code Review Neural Networks Sharding UX Optimization API Innovation distinguishes between a leader and a follower. Cloud Functions Data Pipeline
+Success doesn’t just find you. You have to go out and get it. Artificial Intelligence Pull Request Deployment Event Sourcing Python Success is not in what you have, but who you are. If you can dream it, you can do it. Kafka Algorithm Optimization
