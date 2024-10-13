@@ -15,3 +15,4 @@ Kubernetes Automation Security Neural Networks React Stay hungry, stay foolish. 
 Container Orchestration Artificial Intelligence Latency Optimization A/B Testing Algorithm NLP Python Database Indexing
 Automation Happiness is not something ready made. It comes from your own actions. DNS Routing If you can dream it, you can do it. Dream big and dare to fail. Container Orchestration
 Deployment Containerization Act as if what you do makes a difference. It does. API Gateway Firewalls
+Data Pipeline CI/CD Latency Optimization Success usually comes to those who are too busy to be looking for it. Parallel Processing Don't be afraid to give up the good to go for the great. Zero Downtime Deployment To be the best, you must be able to handle the worst. Python JWT Testing
