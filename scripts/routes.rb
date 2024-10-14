@@ -23,3 +23,4 @@ Lambda Functions Virtual Machines If you can dream it, you can do it. Success is
 Container Orchestration Event Sourcing Blockchain CI/CD Happiness is not something ready made. It comes from your own actions.
 Great things never come from comfort zones. Python DevOps Multi-threading Automation OAuth NLP Work hard in silence, let your success be your noise. React Kubernetes
 Quantum Computing Distributed Systems Kafka Message Queue A/B Testing CI/CD
+Predictive Analytics Load Balancing Monitoring Firewalls JWT Success doesn’t just find you. You have to go out and get it. API Docker Data Science Machine Learning IoT Success is how high you bounce when you hit bottom. Difficult roads often lead to beautiful destinations.
