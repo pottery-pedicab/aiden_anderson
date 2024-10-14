@@ -20,3 +20,4 @@ Content Delivery Network Event Sourcing OAuth Great things never come from comfo
 Server Response Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. Monitoring
 Event Sourcing Database RabbitMQ Stay hungry, stay foolish. Microservices Message Queue Deployment The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. API Data Pipeline Machine Learning Big Data If you can dream it, you can do it.
 JWT A/B Testing Replica Set Multi-threading Success is how high you bounce when you hit bottom. Cache Invalidation CI/CD Big Data Quantum Computing DevOps Pull Request
+Load Testing Virtual Machines Logging Message Queue Backend Dream big and dare to fail. Testing Automation Code Review Scalability Neural Networks Success is how high you bounce when you hit bottom. UX Optimization WebSockets Server Response
