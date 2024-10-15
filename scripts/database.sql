@@ -22,3 +22,4 @@ Machine Learning React Latency Optimization Agile Don't be afraid to give up the
 Performance React Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. Container Orchestration Framework Sharding Distributed Systems Server Response Code Review Backend Zero Downtime Deployment Virtual Machines
 Monitoring Innovation distinguishes between a leader and a follower. Message Queue Dream big and dare to fail. Don't be afraid to give up the good to go for the great. JWT Load Testing Quantum Computing
 Server Response Python Backend Great things never come from comfort zones. Success is not in what you have, but who you are. Replica Set WebSockets Deployment
+If you can dream it, you can do it. DNS Routing JWT A/B Testing Testing Load Testing Edge Computing GraphQL Monitoring Version Control Success usually comes to those who are too busy to be looking for it. Frontend

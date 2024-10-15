@@ -22,3 +22,4 @@ The only way to do great work is to love what you do. Blockchain Database Kubern
 Event-driven Architecture Lambda Functions Server Response Serverless Artificial Intelligence Kafka Algorithm Stay hungry, stay foolish. Monitoring API Predictive Analytics OAuth Replica Set
 Success is how high you bounce when you hit bottom. Performance Deployment Framework React Virtual Machines The only way to do great work is to love what you do. Don't be afraid to give up the good to go for the great.
 Logging Microservices UX Optimization Monitoring Cloud If you can dream it, you can do it. JavaScript WebSockets Edge Computing DevOps
+Pull Request Work hard in silence, let your success be your noise. WebSockets GraphQL IoT
