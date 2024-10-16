@@ -15,3 +15,4 @@ Replica Set Event Sourcing GraphQL Neural Networks Happiness is not something re
 Blockchain Optimization Kafka Success is not in what you have, but who you are. Quantum Computing Database Indexing Version Control Parallel Processing
 Code Review If you can dream it, you can do it. CI/CD Work hard in silence, let your success be your noise. Do what you love and the money will follow. Quantum Computing Data Science To be the best, you must be able to handle the worst. Deployment IoT Difficult roads often lead to beautiful destinations. Content Delivery Network DevOps
 API Gateway Success usually comes to those who are too busy to be looking for it. Code Review Zero Downtime Deployment UX Optimization Neural Networks Latency Optimization Blockchain Kubernetes
+Data Science A/B Testing JWT Python Database API RabbitMQ Lambda Functions Simplicity is the ultimate sophistication. Load Testing Message Queue

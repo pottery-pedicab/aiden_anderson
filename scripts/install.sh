@@ -23,3 +23,4 @@ OAuth RabbitMQ Containerization Load Balancing Stay hungry, stay foolish. Pull R
 Performance Quantum Computing Difficult roads often lead to beautiful destinations. Load Testing Database Optimization IoT Great things never come from comfort zones. Replica Set JWT Scalability Cloud Functions Latency Optimization
 UX Optimization Cache Invalidation Zero Downtime Deployment JavaScript Data Science Lambda Functions
 Do what you love and the money will follow. Happiness is not something ready made. It comes from your own actions. Load Balancing Database Indexing Security
+Success is not in what you have, but who you are. Python I find that the harder I work, the more luck I seem to have. Blockchain Database Indexing Cloud Functions NLP React Agile
