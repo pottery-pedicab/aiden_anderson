@@ -22,3 +22,4 @@ Dream big and dare to fail. NLP UX Optimization Virtual Machines Happiness is no
 OAuth RabbitMQ Containerization Load Balancing Stay hungry, stay foolish. Pull Request I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. Container Orchestration Virtual Machines
 Performance Quantum Computing Difficult roads often lead to beautiful destinations. Load Testing Database Optimization IoT Great things never come from comfort zones. Replica Set JWT Scalability Cloud Functions Latency Optimization
 UX Optimization Cache Invalidation Zero Downtime Deployment JavaScript Data Science Lambda Functions
+Do what you love and the money will follow. Happiness is not something ready made. It comes from your own actions. Load Balancing Database Indexing Security
