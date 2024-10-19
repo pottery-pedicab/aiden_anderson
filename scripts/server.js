@@ -22,3 +22,4 @@ Big Data Event Sourcing Security To be the best, you must be able to handle the 
 Load Balancing Message Queue JWT Python Parallel Processing Event Sourcing Automation Machine Learning React Great things never come from comfort zones. Frontend
 Happiness is not something ready made. It comes from your own actions. Database Indexing DNS Routing Framework Machine Learning Performance Virtual Machines Great things never come from comfort zones. Automation
 Success doesn’t just find you. You have to go out and get it. DNS Routing Frontend API API Gateway Backend Logging Pull Request
+Cloud Functions Difficult roads often lead to beautiful destinations. Logging Firewalls Edge Computing Microservices Innovation distinguishes between a leader and a follower. Load Balancing Multi-threading Data Pipeline

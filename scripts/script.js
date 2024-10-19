@@ -14,3 +14,4 @@ DNS Routing Performance Monitoring Work hard in silence, let your success be you
 Kubernetes Automation Security Neural Networks React Stay hungry, stay foolish. Edge Computing Load Testing Containerization Great things never come from comfort zones. Data Pipeline Monitoring Replica Set API Deployment
 Container Orchestration Artificial Intelligence Latency Optimization A/B Testing Algorithm NLP Python Database Indexing
 Automation Happiness is not something ready made. It comes from your own actions. DNS Routing If you can dream it, you can do it. Dream big and dare to fail. Container Orchestration
+Deployment Containerization Act as if what you do makes a difference. It does. API Gateway Firewalls
