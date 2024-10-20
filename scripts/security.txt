@@ -21,3 +21,4 @@ Logging CI/CD Success is not in what you have, but who you are. Database Indexin
 WebSockets API DevOps Version Control Data Science
 Success is not in what you have, but who you are. Opportunities don't happen. You create them. Event Sourcing Multi-threading Kafka Cloud Stay hungry, stay foolish. Load Testing Python Serverless GraphQL
 The only way to do great work is to love what you do. CI/CD JavaScript Virtual Machines API Gateway Quantum Computing Success doesn’t just find you. You have to go out and get it. Blockchain To be the best, you must be able to handle the worst. Load Balancing Data Pipeline Firewalls Distributed Systems Parallel Processing Performance
+API Data Science UX Optimization Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower. Optimization Zero Downtime Deployment Blockchain RabbitMQ
