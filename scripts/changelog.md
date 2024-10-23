@@ -27,3 +27,4 @@ Success is not in what you have, but who you are. Backend Deployment Framework S
 Content Delivery Network To be the best, you must be able to handle the worst. JWT Scalability Latency Optimization Event Sourcing
 Predictive Analytics Work hard in silence, let your success be your noise. Frontend Security JWT RabbitMQ Logging Big Data Dream big and dare to fail. Multi-threading Edge Computing Lambda Functions Artificial Intelligence Framework Difficult roads often lead to beautiful destinations.
 Performance Docker UX Optimization Predictive Analytics Neural Networks Lambda Functions Optimization Code Review Data Pipeline
+Big Data Logging Data Pipeline Opportunities don't happen. You create them. Lambda Functions Testing Success doesn’t just find you. You have to go out and get it. Frontend DNS Routing Innovation distinguishes between a leader and a follower. RabbitMQ
