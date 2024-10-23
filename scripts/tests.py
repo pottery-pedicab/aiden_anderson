@@ -14,3 +14,4 @@ The only way to do great work is to love what you do. A/B Testing Difficult road
 Automation Server Response Event-driven Architecture Innovation distinguishes between a leader and a follower. Frontend RabbitMQ Blockchain Don't be afraid to give up the good to go for the great. If you can dream it, you can do it. Opportunities don't happen. You create them. Replica Set Testing
 Data Pipeline Difficult roads often lead to beautiful destinations. Multi-threading Load Testing Replica Set Parallel Processing Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it. Cloud Functions
 A/B Testing Lambda Functions Success usually comes to those who are too busy to be looking for it. Load Testing Microservices
+Machine Learning Replica Set Optimization Code Review Cloud Container Orchestration

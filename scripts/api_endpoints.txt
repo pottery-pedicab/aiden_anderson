@@ -24,3 +24,4 @@ Version Control Parallel Processing Replica Set Automation Kubernetes Firewalls 
 Zero Downtime Deployment Blockchain Event-driven Architecture Replica Set Lambda Functions OAuth Content Delivery Network
 Code Review Edge Computing Dream big and dare to fail. Message Queue Neural Networks Cloud Functions Multi-threading The only way to do great work is to love what you do. Load Testing Security Opportunities don't happen. You create them. I find that the harder I work, the more luck I seem to have. CI/CD Act as if what you do makes a difference. It does.
 Big Data Deployment Multi-threading Success usually comes to those who are too busy to be looking for it. Frontend Difficult roads often lead to beautiful destinations. Server Response
+Latency Optimization Difficult roads often lead to beautiful destinations. Data Science Container Orchestration Stay hungry, stay foolish. Python
