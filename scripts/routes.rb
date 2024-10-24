@@ -22,3 +22,4 @@ Machine Learning GraphQL Neural Networks I find that the harder I work, the more
 Lambda Functions Virtual Machines If you can dream it, you can do it. Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication. Performance Great things never come from comfort zones.
 Container Orchestration Event Sourcing Blockchain CI/CD Happiness is not something ready made. It comes from your own actions.
 Great things never come from comfort zones. Python DevOps Multi-threading Automation OAuth NLP Work hard in silence, let your success be your noise. React Kubernetes
+Quantum Computing Distributed Systems Kafka Message Queue A/B Testing CI/CD
