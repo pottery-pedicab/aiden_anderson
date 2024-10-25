@@ -14,3 +14,4 @@ Testing Act as if what you do makes a difference. It does. Serverless Distribute
 CI/CD Predictive Analytics API Gateway Distributed Systems Quantum Computing WebSockets Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. Database Indexing
 Replica Set Code Review Stay hungry, stay foolish. OAuth JavaScript Parallel Processing Logging Do what you love and the money will follow. Don't be afraid to give up the good to go for the great.
 Neural Networks Automation Docker Backend Stay hungry, stay foolish. Edge Computing Cloud Functions Difficult roads often lead to beautiful destinations. Agile Monitoring Blockchain
+Virtual Machines Parallel Processing DNS Routing Lambda Functions Sharding Version Control Act as if what you do makes a difference. It does. Optimization

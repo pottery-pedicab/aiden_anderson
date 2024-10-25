@@ -21,3 +21,4 @@ Predictive Analytics Kafka API Happiness is not something ready made. It comes f
 Dream big and dare to fail. NLP UX Optimization Virtual Machines Happiness is not something ready made. It comes from your own actions. Data Science Success is how high you bounce when you hit bottom. Server Response If you can dream it, you can do it.
 OAuth RabbitMQ Containerization Load Balancing Stay hungry, stay foolish. Pull Request I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. Container Orchestration Virtual Machines
 Performance Quantum Computing Difficult roads often lead to beautiful destinations. Load Testing Database Optimization IoT Great things never come from comfort zones. Replica Set JWT Scalability Cloud Functions Latency Optimization
+UX Optimization Cache Invalidation Zero Downtime Deployment JavaScript Data Science Lambda Functions
