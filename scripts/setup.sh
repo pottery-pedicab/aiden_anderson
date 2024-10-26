@@ -18,3 +18,4 @@ Logging Monitoring Lambda Functions Docker Latency Optimization Great things nev
 Message Queue Security Cloud Act as if what you do makes a difference. It does. Kafka React
 Content Delivery Network Event Sourcing OAuth Great things never come from comfort zones. Zero Downtime Deployment
 Server Response Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. Monitoring
+Event Sourcing Database RabbitMQ Stay hungry, stay foolish. Microservices Message Queue Deployment The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. API Data Pipeline Machine Learning Big Data If you can dream it, you can do it.
