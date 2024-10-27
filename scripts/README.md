@@ -16,3 +16,4 @@ Quantum Computing Virtual Machines Success is how high you bounce when you hit b
 NLP Dream big and dare to fail. CI/CD Predictive Analytics Lambda Functions Firewalls Multi-threading Deployment Data Science
 OAuth Event Sourcing Replica Set Quantum Computing The only way to do great work is to love what you do. Content Delivery Network WebSockets
 Replica Set Database Lambda Functions Firewalls Frontend Data Pipeline Success is how high you bounce when you hit bottom. Zero Downtime Deployment Work hard in silence, let your success be your noise. Opportunities don't happen. You create them.
+Distributed Systems Lambda Functions Event-driven Architecture A/B Testing UX Optimization Docker Artificial Intelligence

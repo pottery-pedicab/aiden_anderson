@@ -25,3 +25,4 @@ Security Database Pull Request Work hard in silence, let your success be your no
 I find that the harder I work, the more luck I seem to have. GraphQL Big Data Happiness is not something ready made. It comes from your own actions. Event-driven Architecture Server Response
 Success is not in what you have, but who you are. Backend Deployment Framework Scalability
 Content Delivery Network To be the best, you must be able to handle the worst. JWT Scalability Latency Optimization Event Sourcing
+Predictive Analytics Work hard in silence, let your success be your noise. Frontend Security JWT RabbitMQ Logging Big Data Dream big and dare to fail. Multi-threading Edge Computing Lambda Functions Artificial Intelligence Framework Difficult roads often lead to beautiful destinations.
