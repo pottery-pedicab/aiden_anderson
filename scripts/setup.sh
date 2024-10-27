@@ -17,3 +17,4 @@ Performance API Gateway GraphQL Big Data To be the best, you must be able to han
 Logging Monitoring Lambda Functions Docker Latency Optimization Great things never come from comfort zones. Framework Neural Networks Data Pipeline Kafka
 Message Queue Security Cloud Act as if what you do makes a difference. It does. Kafka React
 Content Delivery Network Event Sourcing OAuth Great things never come from comfort zones. Zero Downtime Deployment
+Server Response Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. Monitoring
