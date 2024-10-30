@@ -21,3 +21,4 @@ IoT Framework Frontend Python NLP Lambda Functions Neural Networks Happiness is 
 Machine Learning GraphQL Neural Networks I find that the harder I work, the more luck I seem to have. Containerization Blockchain Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. NLP Backend Replica Set Quantum Computing Sharding Agile Deployment
 Lambda Functions Virtual Machines If you can dream it, you can do it. Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication. Performance Great things never come from comfort zones.
 Container Orchestration Event Sourcing Blockchain CI/CD Happiness is not something ready made. It comes from your own actions.
+Great things never come from comfort zones. Python DevOps Multi-threading Automation OAuth NLP Work hard in silence, let your success be your noise. React Kubernetes
