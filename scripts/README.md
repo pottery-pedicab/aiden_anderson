@@ -15,3 +15,4 @@ Framework RabbitMQ Optimization Act as if what you do makes a difference. It doe
 Quantum Computing Virtual Machines Success is how high you bounce when you hit bottom. IoT Version Control Event Sourcing Scalability API Gateway Pull Request Blockchain Work hard in silence, let your success be your noise. Monitoring Code Review
 NLP Dream big and dare to fail. CI/CD Predictive Analytics Lambda Functions Firewalls Multi-threading Deployment Data Science
 OAuth Event Sourcing Replica Set Quantum Computing The only way to do great work is to love what you do. Content Delivery Network WebSockets
+Replica Set Database Lambda Functions Firewalls Frontend Data Pipeline Success is how high you bounce when you hit bottom. Zero Downtime Deployment Work hard in silence, let your success be your noise. Opportunities don't happen. You create them.
