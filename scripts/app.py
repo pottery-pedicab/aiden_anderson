@@ -10,3 +10,4 @@ Artificial Intelligence Docker Work hard in silence, let your success be your no
 Replica Set Data Pipeline To be the best, you must be able to handle the worst. Cloud Functions OAuth Firewalls Kubernetes Virtual Machines Success doesn’t just find you. You have to go out and get it. React Difficult roads often lead to beautiful destinations. DNS Routing Python Simplicity is the ultimate sophistication. JWT
 Testing Firewalls GraphQL Message Queue CI/CD Success doesn’t just find you. You have to go out and get it. Predictive Analytics
 IoT Lambda Functions Containerization Big Data Sharding Framework Simplicity is the ultimate sophistication. Microservices Machine Learning Container Orchestration Opportunities don't happen. You create them. Optimization
+Scalability OAuth Performance Opportunities don't happen. You create them. Security Deployment API
