@@ -18,3 +18,4 @@ Cloud Functions Containerization Performance Act as if what you do makes a diffe
 Deployment Difficult roads often lead to beautiful destinations. Load Balancing API Do what you love and the money will follow. Success usually comes to those who are too busy to be looking for it. Code Review JavaScript Logging DevOps Neural Networks
 Performance DevOps Deployment Virtual Machines Stay hungry, stay foolish. Message Queue Act as if what you do makes a difference. It does. Optimization API Zero Downtime Deployment
 I find that the harder I work, the more luck I seem to have. Success is how high you bounce when you hit bottom. Deployment Event Sourcing RabbitMQ
+The only way to do great work is to love what you do. Blockchain Database Kubernetes DevOps Content Delivery Network Data Pipeline IoT API Algorithm Success is how high you bounce when you hit bottom. Performance Cache Invalidation RabbitMQ
