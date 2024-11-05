@@ -19,3 +19,4 @@ Parallel Processing A/B Testing Quantum Computing Database Multi-threading Simpl
 Version Control Server Response Automation WebSockets Load Balancing Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Sharding Code Review Frontend Framework CI/CD
 Logging CI/CD Success is not in what you have, but who you are. Database Indexing The only way to do great work is to love what you do. Cloud OAuth To be the best, you must be able to handle the worst. JavaScript
 WebSockets API DevOps Version Control Data Science
+Success is not in what you have, but who you are. Opportunities don't happen. You create them. Event Sourcing Multi-threading Kafka Cloud Stay hungry, stay foolish. Load Testing Python Serverless GraphQL

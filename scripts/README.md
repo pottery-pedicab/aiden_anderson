@@ -13,3 +13,4 @@ Code Review API Gateway Opportunities don't happen. You create them. Cloud Shard
 Opportunities don't happen. You create them. Load Balancing Firewalls Monitoring Kubernetes Pull Request IoT To be the best, you must be able to handle the worst. Database Indexing Success is how high you bounce when you hit bottom. API OAuth Docker
 Framework RabbitMQ Optimization Act as if what you do makes a difference. It does. GraphQL Agile Big Data Replica Set Difficult roads often lead to beautiful destinations. Load Testing Event Sourcing Happiness is not something ready made. It comes from your own actions.
 Quantum Computing Virtual Machines Success is how high you bounce when you hit bottom. IoT Version Control Event Sourcing Scalability API Gateway Pull Request Blockchain Work hard in silence, let your success be your noise. Monitoring Code Review
+NLP Dream big and dare to fail. CI/CD Predictive Analytics Lambda Functions Firewalls Multi-threading Deployment Data Science

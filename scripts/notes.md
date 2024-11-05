@@ -9,3 +9,4 @@ Innovation distinguishes between a leader and a follower. Kafka Success doesn’t 
 Backend Load Testing Blockchain Opportunities don't happen. You create them. API Gateway Event-driven Architecture Cache Invalidation Logging Database Indexing RabbitMQ Frontend API Success usually comes to those who are too busy to be looking for it. Agile
 Kafka Success usually comes to those who are too busy to be looking for it. API Artificial Intelligence RabbitMQ Cache Invalidation UX Optimization Database Indexing Automation Success doesn’t just find you. You have to go out and get it.
 Security Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations. DNS Routing Docker Framework Multi-threading Optimization
+React WebSockets Success is how high you bounce when you hit bottom. Data Science Don't be afraid to give up the good to go for the great. Zero Downtime Deployment
