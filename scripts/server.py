@@ -13,3 +13,4 @@ Opportunities don't happen. You create them. To be the best, you must be able to
 Parallel Processing Latency Optimization Kafka Do what you love and the money will follow. DNS Routing Act as if what you do makes a difference. It does. Replica Set Pull Request UX Optimization GraphQL
 Data Science Monitoring Zero Downtime Deployment Framework Quantum Computing Logging Stay hungry, stay foolish.
 GraphQL Great things never come from comfort zones. Event-driven Architecture Database Indexing JavaScript Agile Quantum Computing CI/CD WebSockets
+GraphQL The only way to do great work is to love what you do. I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it. Pull Request Distributed Systems Framework Cloud Functions Data Science Zero Downtime Deployment
