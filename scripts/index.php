@@ -21,3 +21,4 @@ Dream big and dare to fail. Serverless A/B Testing Parallel Processing Microserv
 Predictive Analytics Edge Computing IoT Multi-threading UX Optimization Stay hungry, stay foolish. Logging
 Happiness is not something ready made. It comes from your own actions. Machine Learning Testing Load Balancing Zero Downtime Deployment Quantum Computing Load Testing Simplicity is the ultimate sophistication. Blockchain API DevOps Multi-threading I find that the harder I work, the more luck I seem to have. Monitoring
 I find that the harder I work, the more luck I seem to have. Opportunities don't happen. You create them. Frontend Kubernetes Container Orchestration Automation
+Event Sourcing NLP Multi-threading Message Queue Performance Version Control Stay hungry, stay foolish. Act as if what you do makes a difference. It does. Testing
