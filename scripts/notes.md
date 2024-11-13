@@ -7,3 +7,4 @@ Framework Success usually comes to those who are too busy to be looking for it. 
 Predictive Analytics Server Response A/B Testing Version Control DevOps IoT
 Innovation distinguishes between a leader and a follower. Kafka Success doesn’t just find you. You have to go out and get it. Parallel Processing Difficult roads often lead to beautiful destinations. Docker To be the best, you must be able to handle the worst. Monitoring
 Backend Load Testing Blockchain Opportunities don't happen. You create them. API Gateway Event-driven Architecture Cache Invalidation Logging Database Indexing RabbitMQ Frontend API Success usually comes to those who are too busy to be looking for it. Agile
+Kafka Success usually comes to those who are too busy to be looking for it. API Artificial Intelligence RabbitMQ Cache Invalidation UX Optimization Database Indexing Automation Success doesn’t just find you. You have to go out and get it.
