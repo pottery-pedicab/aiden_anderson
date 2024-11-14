@@ -18,3 +18,4 @@ Edge Computing If you can dream it, you can do it. Latency Optimization API Serv
 Docker Containerization OAuth Optimization Stay hungry, stay foolish. Microservices
 Monitoring Predictive Analytics Neural Networks UX Optimization Artificial Intelligence Database Indexing Innovation distinguishes between a leader and a follower. Cache Invalidation Stay hungry, stay foolish. Act as if what you do makes a difference. It does. RabbitMQ I find that the harder I work, the more luck I seem to have. Kafka Machine Learning DevOps
 IoT Framework Frontend Python NLP Lambda Functions Neural Networks Happiness is not something ready made. It comes from your own actions. Docker
+Machine Learning GraphQL Neural Networks I find that the harder I work, the more luck I seem to have. Containerization Blockchain Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. NLP Backend Replica Set Quantum Computing Sharding Agile Deployment
