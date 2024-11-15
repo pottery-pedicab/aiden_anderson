@@ -17,3 +17,4 @@ Algorithm Machine Learning Database Indexing Artificial Intelligence Optimizatio
 Edge Computing If you can dream it, you can do it. Latency Optimization API Server Response DNS Routing Do what you love and the money will follow. Dream big and dare to fail. DevOps I find that the harder I work, the more luck I seem to have.
 Docker Containerization OAuth Optimization Stay hungry, stay foolish. Microservices
 Monitoring Predictive Analytics Neural Networks UX Optimization Artificial Intelligence Database Indexing Innovation distinguishes between a leader and a follower. Cache Invalidation Stay hungry, stay foolish. Act as if what you do makes a difference. It does. RabbitMQ I find that the harder I work, the more luck I seem to have. Kafka Machine Learning DevOps
+IoT Framework Frontend Python NLP Lambda Functions Neural Networks Happiness is not something ready made. It comes from your own actions. Docker
