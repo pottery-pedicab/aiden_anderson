@@ -17,3 +17,4 @@ Dream big and dare to fail. Message Queue Python Replica Set GraphQL NLP Innovat
 Deployment Opportunities don't happen. You create them. Pull Request OAuth DevOps
 Content Delivery Network Load Testing WebSockets Virtual Machines CI/CD If you can dream it, you can do it. Edge Computing Agile Message Queue Server Response React Optimization
 Work hard in silence, let your success be your noise. Deployment Difficult roads often lead to beautiful destinations. OAuth Great things never come from comfort zones. Kafka Container Orchestration Load Testing
+Happiness is not something ready made. It comes from your own actions. Agile The only way to do great work is to love what you do. Firewalls Python Performance Success doesn’t just find you. You have to go out and get it. Testing
