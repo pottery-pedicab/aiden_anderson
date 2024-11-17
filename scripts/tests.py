@@ -10,3 +10,4 @@ Version Control Sharding Message Queue RabbitMQ Frontend Work hard in silence, l
 Act as if what you do makes a difference. It does. Quantum Computing Kafka Microservices Framework Blockchain
 Monitoring Message Queue Automation Containerization Great things never come from comfort zones. Version Control Simplicity is the ultimate sophistication. Neural Networks Microservices
 Great things never come from comfort zones. Artificial Intelligence DevOps Innovation distinguishes between a leader and a follower. Cloud Cloud Functions Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. Docker Virtual Machines Success usually comes to those who are too busy to be looking for it.
+The only way to do great work is to love what you do. A/B Testing Difficult roads often lead to beautiful destinations. API UX Optimization Cloud Stay hungry, stay foolish. Security Code Review
