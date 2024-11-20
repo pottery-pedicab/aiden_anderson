@@ -19,3 +19,4 @@ Container Orchestration Success is how high you bounce when you hit bottom. Load
 Artificial Intelligence OAuth Don't be afraid to give up the good to go for the great. Automation Multi-threading Opportunities don't happen. You create them. Neural Networks RabbitMQ Quantum Computing
 RabbitMQ UX Optimization Pull Request OAuth Algorithm Firewalls JavaScript API Gateway CI/CD Container Orchestration Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. Big Data
 Automation Kubernetes CI/CD NLP Kafka JavaScript Don't be afraid to give up the good to go for the great. Artificial Intelligence IoT Load Balancing Containerization Neural Networks
+Optimization Success is not in what you have, but who you are. Monitoring Latency Optimization JavaScript Content Delivery Network Automation Kubernetes Backend Server Response Microservices
