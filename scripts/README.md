@@ -10,3 +10,4 @@ Backend The only way to do great work is to love what you do. OAuth Cloud Functi
 Big Data JavaScript Message Queue Sharding Lambda Functions Success doesn’t just find you. You have to go out and get it. API Gateway Algorithm
 Monitoring Content Delivery Network Container Orchestration Act as if what you do makes a difference. It does. Parallel Processing
 Code Review API Gateway Opportunities don't happen. You create them. Cloud Sharding Blockchain Parallel Processing NLP Success is how high you bounce when you hit bottom. Python Virtual Machines Quantum Computing
+Opportunities don't happen. You create them. Load Balancing Firewalls Monitoring Kubernetes Pull Request IoT To be the best, you must be able to handle the worst. Database Indexing Success is how high you bounce when you hit bottom. API OAuth Docker

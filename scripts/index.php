@@ -18,3 +18,4 @@ DevOps Distributed Systems React Algorithm Do what you love and the money will f
 Logging CI/CD Containerization Data Pipeline If you can dream it, you can do it.
 DevOps Stay hungry, stay foolish. Zero Downtime Deployment Do what you love and the money will follow. GraphQL Algorithm
 Dream big and dare to fail. Serverless A/B Testing Parallel Processing Microservices IoT Framework GraphQL Content Delivery Network Cache Invalidation Security Load Testing Success usually comes to those who are too busy to be looking for it. Predictive Analytics Do what you love and the money will follow.
+Predictive Analytics Edge Computing IoT Multi-threading UX Optimization Stay hungry, stay foolish. Logging
