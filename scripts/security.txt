@@ -13,3 +13,4 @@ Container Orchestration Scalability Virtual Machines Database Indexing Do what y
 Logging Virtual Machines Framework DNS Routing NLP Database Indexing Neural Networks Cloud Functions Blockchain Success doesn’t just find you. You have to go out and get it. Container Orchestration Content Delivery Network If you can dream it, you can do it.
 WebSockets Cache Invalidation Blockchain DevOps UX Optimization Simplicity is the ultimate sophistication. React Data Science Logging NLP
 Cloud Scalability I find that the harder I work, the more luck I seem to have. Replica Set Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. Performance Success doesn’t just find you. You have to go out and get it.
+IoT CI/CD Docker Event-driven Architecture Event Sourcing Neural Networks Data Pipeline Firewalls

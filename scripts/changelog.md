@@ -23,3 +23,4 @@ Lambda Functions JWT Python Act as if what you do makes a difference. It does. F
 Difficult roads often lead to beautiful destinations. NLP Kubernetes Happiness is not something ready made. It comes from your own actions. Automation Frontend Cache Invalidation Performance Big Data Neural Networks Microservices
 Security Database Pull Request Work hard in silence, let your success be your noise. Predictive Analytics DNS Routing Stay hungry, stay foolish.
 I find that the harder I work, the more luck I seem to have. GraphQL Big Data Happiness is not something ready made. It comes from your own actions. Event-driven Architecture Server Response
+Success is not in what you have, but who you are. Backend Deployment Framework Scalability
