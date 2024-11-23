@@ -16,3 +16,4 @@ Difficult roads often lead to beautiful destinations. Distributed Systems Happin
 Dream big and dare to fail. Message Queue Python Replica Set GraphQL NLP Innovation distinguishes between a leader and a follower. Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. Distributed Systems Optimization Success usually comes to those who are too busy to be looking for it.
 Deployment Opportunities don't happen. You create them. Pull Request OAuth DevOps
 Content Delivery Network Load Testing WebSockets Virtual Machines CI/CD If you can dream it, you can do it. Edge Computing Agile Message Queue Server Response React Optimization
+Work hard in silence, let your success be your noise. Deployment Difficult roads often lead to beautiful destinations. OAuth Great things never come from comfort zones. Kafka Container Orchestration Load Testing
