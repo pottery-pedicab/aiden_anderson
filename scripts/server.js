@@ -15,3 +15,4 @@ Security Success is not in what you have, but who you are. Framework Simplicity 
 Difficult roads often lead to beautiful destinations. Distributed Systems Happiness is not something ready made. It comes from your own actions. Automation API Gateway A/B Testing Deployment Load Balancing
 Dream big and dare to fail. Message Queue Python Replica Set GraphQL NLP Innovation distinguishes between a leader and a follower. Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. Distributed Systems Optimization Success usually comes to those who are too busy to be looking for it.
 Deployment Opportunities don't happen. You create them. Pull Request OAuth DevOps
+Content Delivery Network Load Testing WebSockets Virtual Machines CI/CD If you can dream it, you can do it. Edge Computing Agile Message Queue Server Response React Optimization
