@@ -5,3 +5,4 @@ Distributed Systems Optimization Data Pipeline If you can dream it, you can do i
 Event Sourcing Database Monitoring Security Simplicity is the ultimate sophistication. Framework
 Framework Success usually comes to those who are too busy to be looking for it. Data Pipeline OAuth Event Sourcing Big Data Blockchain Quantum Computing Load Testing Load Balancing Latency Optimization Artificial Intelligence UX Optimization
 Predictive Analytics Server Response A/B Testing Version Control DevOps IoT
+Innovation distinguishes between a leader and a follower. Kafka Success doesn’t just find you. You have to go out and get it. Parallel Processing Difficult roads often lead to beautiful destinations. Docker To be the best, you must be able to handle the worst. Monitoring

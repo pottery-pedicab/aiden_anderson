@@ -15,3 +15,4 @@ Kubernetes UX Optimization Simplicity is the ultimate sophistication. Framework 
 Artificial Intelligence Kubernetes Zero Downtime Deployment Machine Learning NLP
 Artificial Intelligence Agile The only way to do great work is to love what you do. Container Orchestration Neural Networks If you can dream it, you can do it. GraphQL Success doesn’t just find you. You have to go out and get it. Server Response Success is how high you bounce when you hit bottom. To be the best, you must be able to handle the worst. Monitoring DevOps DNS Routing Difficult roads often lead to beautiful destinations.
 Innovation distinguishes between a leader and a follower. Containerization DNS Routing Testing Predictive Analytics
+React Automation Data Pipeline NLP Backend Act as if what you do makes a difference. It does. To be the best, you must be able to handle the worst. Neural Networks Testing Server Response Framework
