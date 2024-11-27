@@ -9,3 +9,4 @@ Event-driven Architecture Backend NLP Lambda Functions Difficult roads often lea
 Replica Set DevOps Event-driven Architecture UX Optimization RabbitMQ Work hard in silence, let your success be your noise.
 React Database Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. Success is not in what you have, but who you are. UX Optimization Pull Request Data Science Event Sourcing The only way to do great work is to love what you do. NLP Scalability Kafka
 Success doesn’t just find you. You have to go out and get it. Multi-threading Sharding Work hard in silence, let your success be your noise. JWT Message Queue Containerization Docker Artificial Intelligence Database Indexing Predictive Analytics
+Quantum Computing Big Data Artificial Intelligence Serverless Load Testing Zero Downtime Deployment NLP React Container Orchestration WebSockets Frontend GraphQL The only way to do great work is to love what you do.
