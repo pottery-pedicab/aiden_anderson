@@ -15,3 +15,4 @@ Event Sourcing Innovation distinguishes between a leader and a follower. Securit
 Kafka Container Orchestration Deployment Logging Pull Request
 Success doesn’t just find you. You have to go out and get it. Message Queue A/B Testing The only way to do great work is to love what you do. Cloud Agile NLP Zero Downtime Deployment Virtual Machines Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it. Data Pipeline Event Sourcing Automation Backend
 JavaScript DNS Routing Lambda Functions NLP Work hard in silence, let your success be your noise. Security Cache Invalidation Logging Quantum Computing Success is how high you bounce when you hit bottom. Artificial Intelligence Stay hungry, stay foolish.
+Quantum Computing IoT Microservices Message Queue Event-driven Architecture Data Science Version Control Distributed Systems Zero Downtime Deployment Deployment Logging React RabbitMQ

@@ -15,3 +15,4 @@ Docker Success is how high you bounce when you hit bottom. Blockchain Dream big 
 Agile Sharding OAuth Load Testing Frontend Event-driven Architecture API Database Success doesn’t just find you. You have to go out and get it.
 Algorithm Machine Learning Database Indexing Artificial Intelligence Optimization Testing Distributed Systems Cloud Functions Database Don't be afraid to give up the good to go for the great. Act as if what you do makes a difference. It does.
 Edge Computing If you can dream it, you can do it. Latency Optimization API Server Response DNS Routing Do what you love and the money will follow. Dream big and dare to fail. DevOps I find that the harder I work, the more luck I seem to have.
+Docker Containerization OAuth Optimization Stay hungry, stay foolish. Microservices
