@@ -13,3 +13,4 @@ UX Optimization Success doesn’t just find you. You have to go out and get it. Ma
 I find that the harder I work, the more luck I seem to have. Framework Do what you love and the money will follow. Scalability Simplicity is the ultimate sophistication. Cache Invalidation Stay hungry, stay foolish.
 Firewalls CI/CD UX Optimization Code Review Docker
 To be the best, you must be able to handle the worst. Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. Difficult roads often lead to beautiful destinations. Backend Data Pipeline Logging Frontend OAuth Data Science
+Performance API Gateway GraphQL Big Data To be the best, you must be able to handle the worst. DNS Routing Kafka Testing Event-driven Architecture

@@ -12,3 +12,4 @@ Scalability If you can dream it, you can do it. Edge Computing Cloud Firewalls I
 Kubernetes Don't be afraid to give up the good to go for the great. Algorithm Innovation distinguishes between a leader and a follower. Replica Set
 Microservices Great things never come from comfort zones. DNS Routing Work hard in silence, let your success be your noise. Firewalls Stay hungry, stay foolish.
 Container Orchestration DNS Routing API Sharding Backend Event Sourcing OAuth WebSockets Blockchain Stay hungry, stay foolish. A/B Testing Opportunities don't happen. You create them.
+Dream big and dare to fail. Multi-threading Success usually comes to those who are too busy to be looking for it. Content Delivery Network Replica Set Success doesn’t just find you. You have to go out and get it. Simplicity is the ultimate sophistication.
