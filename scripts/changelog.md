@@ -20,3 +20,4 @@ If you can dream it, you can do it. Message Queue Frontend Version Control I fin
 Simplicity is the ultimate sophistication. Load Balancing Backend Pull Request Server Response Agile Python Quantum Computing Success doesn’t just find you. You have to go out and get it. Event-driven Architecture Content Delivery Network Automation Replica Set Distributed Systems Multi-threading
 Optimization Code Review Lambda Functions Serverless Load Balancing Server Response Version Control Edge Computing Agile
 Lambda Functions JWT Python Act as if what you do makes a difference. It does. Frontend
+Difficult roads often lead to beautiful destinations. NLP Kubernetes Happiness is not something ready made. It comes from your own actions. Automation Frontend Cache Invalidation Performance Big Data Neural Networks Microservices
