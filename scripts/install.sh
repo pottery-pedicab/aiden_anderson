@@ -13,3 +13,4 @@ Multi-threading Innovation distinguishes between a leader and a follower. Event 
 Container Orchestration Optimization Version Control Edge Computing Sharding Database Indexing API JWT Event-driven Architecture Neural Networks Don't be afraid to give up the good to go for the great.
 Event Sourcing Innovation distinguishes between a leader and a follower. Security API Gateway React Code Review Kafka Predictive Analytics Backend Load Testing Artificial Intelligence Simplicity is the ultimate sophistication. OAuth
 Kafka Container Orchestration Deployment Logging Pull Request
+Success doesn’t just find you. You have to go out and get it. Message Queue A/B Testing The only way to do great work is to love what you do. Cloud Agile NLP Zero Downtime Deployment Virtual Machines Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it. Data Pipeline Event Sourcing Automation Backend
