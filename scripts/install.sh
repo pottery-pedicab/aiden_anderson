@@ -12,3 +12,4 @@ Data Pipeline Happiness is not something ready made. It comes from your own acti
 Multi-threading Innovation distinguishes between a leader and a follower. Event Sourcing If you can dream it, you can do it. Docker RabbitMQ Quantum Computing
 Container Orchestration Optimization Version Control Edge Computing Sharding Database Indexing API JWT Event-driven Architecture Neural Networks Don't be afraid to give up the good to go for the great.
 Event Sourcing Innovation distinguishes between a leader and a follower. Security API Gateway React Code Review Kafka Predictive Analytics Backend Load Testing Artificial Intelligence Simplicity is the ultimate sophistication. OAuth
+Kafka Container Orchestration Deployment Logging Pull Request
