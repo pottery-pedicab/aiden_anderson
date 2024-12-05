@@ -15,3 +15,4 @@ OAuth Load Balancing Optimization Frontend Container Orchestration DevOps Edge C
 Act as if what you do makes a difference. It does. Database Indexing UX Optimization Simplicity is the ultimate sophistication. Optimization A/B Testing Dream big and dare to fail. Agile If you can dream it, you can do it.
 Success doesn’t just find you. You have to go out and get it. Latency Optimization Logging Quantum Computing Algorithm
 DevOps Distributed Systems React Algorithm Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. Edge Computing
+Logging CI/CD Containerization Data Pipeline If you can dream it, you can do it.

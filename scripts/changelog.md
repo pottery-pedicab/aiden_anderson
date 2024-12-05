@@ -19,3 +19,4 @@ Big Data Frontend Security Sharding Virtual Machines CI/CD Success doesn’t just 
 If you can dream it, you can do it. Message Queue Frontend Version Control I find that the harder I work, the more luck I seem to have. Quantum Computing Agile Backend Scalability Success is how high you bounce when you hit bottom. Stay hungry, stay foolish. Code Review
 Simplicity is the ultimate sophistication. Load Balancing Backend Pull Request Server Response Agile Python Quantum Computing Success doesn’t just find you. You have to go out and get it. Event-driven Architecture Content Delivery Network Automation Replica Set Distributed Systems Multi-threading
 Optimization Code Review Lambda Functions Serverless Load Balancing Server Response Version Control Edge Computing Agile
+Lambda Functions JWT Python Act as if what you do makes a difference. It does. Frontend
