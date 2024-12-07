@@ -8,3 +8,4 @@ Cloud Simplicity is the ultimate sophistication. Big Data Container Orchestratio
 Containerization GraphQL Backend Success usually comes to those who are too busy to be looking for it. Firewalls Virtual Machines Optimization CI/CD
 Version Control Sharding Message Queue RabbitMQ Frontend Work hard in silence, let your success be your noise. Automation React Optimization Quantum Computing I find that the harder I work, the more luck I seem to have. Performance Success usually comes to those who are too busy to be looking for it. Content Delivery Network
 Act as if what you do makes a difference. It does. Quantum Computing Kafka Microservices Framework Blockchain
+Monitoring Message Queue Automation Containerization Great things never come from comfort zones. Version Control Simplicity is the ultimate sophistication. Neural Networks Microservices
