@@ -7,3 +7,4 @@ Docker Don't be afraid to give up the good to go for the great. Success usually 
 Microservices IoT OAuth Event Sourcing Do what you love and the money will follow. Pull Request Success usually comes to those who are too busy to be looking for it. I find that the harder I work, the more luck I seem to have. Neural Networks Cloud Functions Firewalls
 Distributed Systems JavaScript Don't be afraid to give up the good to go for the great. Event Sourcing Framework Replica Set
 Code Review Server Response Virtual Machines GraphQL Difficult roads often lead to beautiful destinations. Backend Simplicity is the ultimate sophistication. Dream big and dare to fail. Event-driven Architecture Cloud Frontend Serverless Security Database
+Virtual Machines Machine Learning Security Containerization If you can dream it, you can do it. Big Data Neural Networks Monitoring Backend Sharding Latency Optimization
