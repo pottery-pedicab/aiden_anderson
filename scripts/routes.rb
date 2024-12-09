@@ -13,3 +13,4 @@ Latency Optimization Load Testing Work hard in silence, let your success be your
 Lambda Functions Security Event-driven Architecture Logging Artificial Intelligence UX Optimization
 Docker Success is how high you bounce when you hit bottom. Blockchain Dream big and dare to fail. Quantum Computing Monitoring Lambda Functions Automation Stay hungry, stay foolish. NLP Simplicity is the ultimate sophistication. Version Control Big Data
 Agile Sharding OAuth Load Testing Frontend Event-driven Architecture API Database Success doesn’t just find you. You have to go out and get it.
+Algorithm Machine Learning Database Indexing Artificial Intelligence Optimization Testing Distributed Systems Cloud Functions Database Don't be afraid to give up the good to go for the great. Act as if what you do makes a difference. It does.
