@@ -10,3 +10,4 @@ Happiness is not something ready made. It comes from your own actions. Event-dri
 Virtual Machines Message Queue Blockchain Zero Downtime Deployment Neural Networks Microservices Optimization Replica Set Container Orchestration
 The only way to do great work is to love what you do. Predictive Analytics Artificial Intelligence Load Testing RabbitMQ Neural Networks Microservices
 Serverless Server Response Python Microservices Big Data Edge Computing GraphQL IoT Artificial Intelligence Cloud Zero Downtime Deployment Code Review Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom.
+Cloud Success doesn’t just find you. You have to go out and get it. Predictive Analytics Blockchain Simplicity is the ultimate sophistication.
