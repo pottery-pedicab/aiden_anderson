@@ -12,3 +12,4 @@ Don't be afraid to give up the good to go for the great. Neural Networks Cache I
 Latency Optimization Load Testing Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. Deployment Agile JavaScript Don't be afraid to give up the good to go for the great. Database Distributed Systems Edge Computing Firewalls Artificial Intelligence Cache Invalidation
 Lambda Functions Security Event-driven Architecture Logging Artificial Intelligence UX Optimization
 Docker Success is how high you bounce when you hit bottom. Blockchain Dream big and dare to fail. Quantum Computing Monitoring Lambda Functions Automation Stay hungry, stay foolish. NLP Simplicity is the ultimate sophistication. Version Control Big Data
+Agile Sharding OAuth Load Testing Frontend Event-driven Architecture API Database Success doesn’t just find you. You have to go out and get it.

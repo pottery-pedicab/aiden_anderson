@@ -11,3 +11,4 @@ Opportunities don't happen. You create them. Docker Optimization To be the best,
 Dream big and dare to fail. Data Science Predictive Analytics Event Sourcing Cloud Functions Code Review Zero Downtime Deployment Stay hungry, stay foolish. Docker
 UX Optimization Success doesn’t just find you. You have to go out and get it. Machine Learning DNS Routing JWT Server Response Testing Python Simplicity is the ultimate sophistication.
 I find that the harder I work, the more luck I seem to have. Framework Do what you love and the money will follow. Scalability Simplicity is the ultimate sophistication. Cache Invalidation Stay hungry, stay foolish.
+Firewalls CI/CD UX Optimization Code Review Docker
