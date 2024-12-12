@@ -12,3 +12,4 @@ Data Pipeline DevOps JWT CI/CD Database
 OAuth Data Science Containerization Replica Set Backend Load Testing If you can dream it, you can do it. Event-driven Architecture Logging Edge Computing Success is not in what you have, but who you are. Cloud Functions Agile
 Innovation distinguishes between a leader and a follower. Logging Python Success doesn’t just find you. You have to go out and get it. Stay hungry, stay foolish. Edge Computing Deployment JWT Predictive Analytics Dream big and dare to fail. Event Sourcing Cache Invalidation Firewalls Optimization WebSockets
 Kubernetes UX Optimization Simplicity is the ultimate sophistication. Framework Backend
+Artificial Intelligence Kubernetes Zero Downtime Deployment Machine Learning NLP
