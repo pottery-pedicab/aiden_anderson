@@ -13,3 +13,4 @@ Happiness is not something ready made. It comes from your own actions. React Clo
 Don't be afraid to give up the good to go for the great. Quantum Computing Performance Difficult roads often lead to beautiful destinations. Optimization
 OAuth Load Balancing Optimization Frontend Container Orchestration DevOps Edge Computing Machine Learning API RabbitMQ Act as if what you do makes a difference. It does. WebSockets
 Act as if what you do makes a difference. It does. Database Indexing UX Optimization Simplicity is the ultimate sophistication. Optimization A/B Testing Dream big and dare to fail. Agile If you can dream it, you can do it.
+Success doesn’t just find you. You have to go out and get it. Latency Optimization Logging Quantum Computing Algorithm
