@@ -7,3 +7,4 @@ Don't be afraid to give up the good to go for the great. API Big Data Cloud Lamb
 Zero Downtime Deployment Latency Optimization Lambda Functions Agile Great things never come from comfort zones. Cache Invalidation Stay hungry, stay foolish. Replica Set Serverless DevOps Automation
 Simplicity is the ultimate sophistication. Kafka React Microservices JWT Data Pipeline Monitoring Load Testing Zero Downtime Deployment
 Opportunities don't happen. You create them. Python CI/CD Pull Request Multi-threading Success usually comes to those who are too busy to be looking for it. Machine Learning Stay hungry, stay foolish. JavaScript Serverless Success doesn’t just find you. You have to go out and get it. To be the best, you must be able to handle the worst. Agile Predictive Analytics
+Microservices API Algorithm Don't be afraid to give up the good to go for the great. If you can dream it, you can do it. Blockchain DevOps
