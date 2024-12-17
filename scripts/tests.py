@@ -6,3 +6,4 @@ Deployment DNS Routing Distributed Systems Code Review Don't be afraid to give u
 Frontend Testing Deployment Stay hungry, stay foolish. Sharding Parallel Processing
 Cloud Simplicity is the ultimate sophistication. Big Data Container Orchestration Success is how high you bounce when you hit bottom. Event-driven Architecture Microservices DevOps Replica Set Lambda Functions Data Pipeline
 Containerization GraphQL Backend Success usually comes to those who are too busy to be looking for it. Firewalls Virtual Machines Optimization CI/CD
+Version Control Sharding Message Queue RabbitMQ Frontend Work hard in silence, let your success be your noise. Automation React Optimization Quantum Computing I find that the harder I work, the more luck I seem to have. Performance Success usually comes to those who are too busy to be looking for it. Content Delivery Network
