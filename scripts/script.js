@@ -5,3 +5,4 @@ Machine Learning Data Pipeline Cloud Functions Happiness is not something ready 
 Docker Lambda Functions Database UX Optimization Message Queue DevOps Deployment API Gateway Monitoring Do what you love and the money will follow. Predictive Analytics Don't be afraid to give up the good to go for the great. Python
 JWT Quantum Computing I find that the harder I work, the more luck I seem to have. Algorithm Agile Frontend UX Optimization JavaScript Server Response Optimization WebSockets Containerization A/B Testing
 Success doesn’t just find you. You have to go out and get it. Scalability Cache Invalidation Python Success is how high you bounce when you hit bottom.
+Event-driven Architecture Backend NLP Lambda Functions Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower.

@@ -9,3 +9,4 @@ Quantum Computing To be the best, you must be able to handle the worst. Sharding
 Happiness is not something ready made. It comes from your own actions. Event-driven Architecture Microservices Artificial Intelligence Distributed Systems Act as if what you do makes a difference. It does. Edge Computing
 Virtual Machines Message Queue Blockchain Zero Downtime Deployment Neural Networks Microservices Optimization Replica Set Container Orchestration
 The only way to do great work is to love what you do. Predictive Analytics Artificial Intelligence Load Testing RabbitMQ Neural Networks Microservices
+Serverless Server Response Python Microservices Big Data Edge Computing GraphQL IoT Artificial Intelligence Cloud Zero Downtime Deployment Code Review Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom.
