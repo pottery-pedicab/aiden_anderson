@@ -9,3 +9,4 @@ WebSockets CI/CD Deployment Python Load Testing Serverless Containerization If y
 Framework Latency Optimization Neural Networks Database Indexing Do what you love and the money will follow. Distributed Systems A/B Testing Firewalls Frontend Success usually comes to those who are too busy to be looking for it. Scalability Microservices Message Queue
 Opportunities don't happen. You create them. Docker Optimization To be the best, you must be able to handle the worst. Act as if what you do makes a difference. It does. Dream big and dare to fail. Database Indexing Container Orchestration Message Queue Lambda Functions API
 Dream big and dare to fail. Data Science Predictive Analytics Event Sourcing Cloud Functions Code Review Zero Downtime Deployment Stay hungry, stay foolish. Docker
+UX Optimization Success doesn’t just find you. You have to go out and get it. Machine Learning DNS Routing JWT Server Response Testing Python Simplicity is the ultimate sophistication.
