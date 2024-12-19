@@ -9,3 +9,4 @@ WebSockets Version Control RabbitMQ Predictive Analytics Containerization Server
 Virtual Machines Zero Downtime Deployment Security Database Indexing To be the best, you must be able to handle the worst. Automation Scalability
 Replica Set Opportunities don't happen. You create them. Monitoring A/B Testing Serverless GraphQL Difficult roads often lead to beautiful destinations. Message Queue Firewalls Docker
 Scalability If you can dream it, you can do it. Edge Computing Cloud Firewalls IoT Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. Testing JWT WebSockets Big Data Database Indexing Multi-threading
+Kubernetes Don't be afraid to give up the good to go for the great. Algorithm Innovation distinguishes between a leader and a follower. Replica Set
