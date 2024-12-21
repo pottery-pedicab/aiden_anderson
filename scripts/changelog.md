@@ -14,3 +14,4 @@ Great things never come from comfort zones. Opportunities don't happen. You crea
 Server Response Cloud Load Balancing Sharding A/B Testing Message Queue Multi-threading Parallel Processing Opportunities don't happen. You create them. API Gateway
 Event Sourcing The only way to do great work is to love what you do. Happiness is not something ready made. It comes from your own actions. Database Indexing Data Science Backend Distributed Systems Load Testing DevOps Container Orchestration Logging Code Review Success usually comes to those who are too busy to be looking for it.
 Event-driven Architecture Algorithm CI/CD Happiness is not something ready made. It comes from your own actions. Automation
+Artificial Intelligence Firewalls Work hard in silence, let your success be your noise. Scalability If you can dream it, you can do it. Monitoring I find that the harder I work, the more luck I seem to have. Security
