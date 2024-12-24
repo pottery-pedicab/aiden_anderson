@@ -7,3 +7,4 @@ Cache Invalidation Success is not in what you have, but who you are. Microservic
 WebSockets Work hard in silence, let your success be your noise. Version Control Cache Invalidation Data Science Success is how high you bounce when you hit bottom. Framework Edge Computing React A/B Testing Server Response
 WebSockets Version Control RabbitMQ Predictive Analytics Containerization Serverless
 Virtual Machines Zero Downtime Deployment Security Database Indexing To be the best, you must be able to handle the worst. Automation Scalability
+Replica Set Opportunities don't happen. You create them. Monitoring A/B Testing Serverless GraphQL Difficult roads often lead to beautiful destinations. Message Queue Firewalls Docker

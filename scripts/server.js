@@ -8,3 +8,4 @@ React JWT Cloud Functions Do what you love and the money will follow. A/B Testin
 Quantum Computing To be the best, you must be able to handle the worst. Sharding Event Sourcing Do what you love and the money will follow. Cache Invalidation Artificial Intelligence Edge Computing Big Data Code Review
 Happiness is not something ready made. It comes from your own actions. Event-driven Architecture Microservices Artificial Intelligence Distributed Systems Act as if what you do makes a difference. It does. Edge Computing
 Virtual Machines Message Queue Blockchain Zero Downtime Deployment Neural Networks Microservices Optimization Replica Set Container Orchestration
+The only way to do great work is to love what you do. Predictive Analytics Artificial Intelligence Load Testing RabbitMQ Neural Networks Microservices
