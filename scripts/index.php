@@ -12,3 +12,4 @@ Scalability Great things never come from comfort zones. JavaScript Artificial In
 Happiness is not something ready made. It comes from your own actions. React Cloud Functions Innovation distinguishes between a leader and a follower. Code Review Lambda Functions Quantum Computing Content Delivery Network Testing
 Don't be afraid to give up the good to go for the great. Quantum Computing Performance Difficult roads often lead to beautiful destinations. Optimization
 OAuth Load Balancing Optimization Frontend Container Orchestration DevOps Edge Computing Machine Learning API RabbitMQ Act as if what you do makes a difference. It does. WebSockets
+Act as if what you do makes a difference. It does. Database Indexing UX Optimization Simplicity is the ultimate sophistication. Optimization A/B Testing Dream big and dare to fail. Agile If you can dream it, you can do it.
