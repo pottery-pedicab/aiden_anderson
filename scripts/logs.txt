@@ -5,3 +5,4 @@ IoT Data Pipeline I find that the harder I work, the more luck I seem to have. A
 Database Indexing Parallel Processing Kubernetes Success is not in what you have, but who you are. Scalability Security Cloud Functions Deployment Work hard in silence, let your success be your noise. I find that the harder I work, the more luck I seem to have. Microservices Machine Learning
 Frontend I find that the harder I work, the more luck I seem to have. Predictive Analytics DNS Routing Difficult roads often lead to beautiful destinations.
 API Gateway Do what you love and the money will follow. Framework Algorithm Artificial Intelligence Quantum Computing Logging Lambda Functions
+Work hard in silence, let your success be your noise. NLP Dream big and dare to fail. Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. Python
