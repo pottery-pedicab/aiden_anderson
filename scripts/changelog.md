@@ -11,3 +11,4 @@ Predictive Analytics Difficult roads often lead to beautiful destinations. Micro
 Content Delivery Network Distributed Systems GraphQL Quantum Computing Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. Cache Invalidation Security Act as if what you do makes a difference. It does. Testing Database Indexing Deployment
 Success is how high you bounce when you hit bottom. Database Indexing Optimization DNS Routing Python Server Response Event Sourcing Don't be afraid to give up the good to go for the great. NLP
 Great things never come from comfort zones. Opportunities don't happen. You create them. Version Control Kafka Framework Success is not in what you have, but who you are. Logging DNS Routing Data Pipeline API Gateway Act as if what you do makes a difference. It does.
+Server Response Cloud Load Balancing Sharding A/B Testing Message Queue Multi-threading Parallel Processing Opportunities don't happen. You create them. API Gateway
