@@ -4,3 +4,4 @@ Act as if what you do makes a difference. It does. JWT Stay hungry, stay foolish
 JWT Act as if what you do makes a difference. It does. Kubernetes Database Framework
 Containerization Data Pipeline Code Review Neural Networks Deployment CI/CD Success is how high you bounce when you hit bottom. Load Balancing Do what you love and the money will follow. JWT
 Content Delivery Network Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. UX Optimization RabbitMQ Replica Set
+NLP Success doesn’t just find you. You have to go out and get it. Containerization Simplicity is the ultimate sophistication. UX Optimization
