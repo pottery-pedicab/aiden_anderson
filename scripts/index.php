@@ -11,3 +11,4 @@ Distributed Systems Innovation distinguishes between a leader and a follower. Co
 Scalability Great things never come from comfort zones. JavaScript Artificial Intelligence Machine Learning Optimization Algorithm Server Response Message Queue Cloud Testing Work hard in silence, let your success be your noise.
 Happiness is not something ready made. It comes from your own actions. React Cloud Functions Innovation distinguishes between a leader and a follower. Code Review Lambda Functions Quantum Computing Content Delivery Network Testing
 Don't be afraid to give up the good to go for the great. Quantum Computing Performance Difficult roads often lead to beautiful destinations. Optimization
+OAuth Load Balancing Optimization Frontend Container Orchestration DevOps Edge Computing Machine Learning API RabbitMQ Act as if what you do makes a difference. It does. WebSockets

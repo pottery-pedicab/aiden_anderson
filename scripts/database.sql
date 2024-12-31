@@ -9,3 +9,4 @@ Docker Firewalls DevOps Deployment JavaScript Work hard in silence, let your suc
 Lambda Functions Kubernetes JWT Algorithm Scalability DNS Routing Testing Monitoring Predictive Analytics
 Cache Invalidation Difficult roads often lead to beautiful destinations. Sharding Load Balancing Message Queue Success is how high you bounce when you hit bottom. Logging Lambda Functions
 Load Testing NLP Frontend Python Data Pipeline Latency Optimization Act as if what you do makes a difference. It does. Artificial Intelligence Container Orchestration JWT
+Event-driven Architecture Cloud Innovation distinguishes between a leader and a follower. JWT If you can dream it, you can do it. Scalability Monitoring API Virtual Machines
