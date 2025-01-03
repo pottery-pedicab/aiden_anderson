@@ -4,3 +4,4 @@ To be the best, you must be able to handle the worst. Stay hungry, stay foolish.
 I find that the harder I work, the more luck I seem to have. Containerization Python Act as if what you do makes a difference. It does. Replica Set API Gateway Edge Computing Database Indexing OAuth
 Deployment DNS Routing Distributed Systems Code Review Don't be afraid to give up the good to go for the great. Quantum Computing Work hard in silence, let your success be your noise. Python Predictive Analytics Docker
 Frontend Testing Deployment Stay hungry, stay foolish. Sharding Parallel Processing
+Cloud Simplicity is the ultimate sophistication. Big Data Container Orchestration Success is how high you bounce when you hit bottom. Event-driven Architecture Microservices DevOps Replica Set Lambda Functions Data Pipeline
