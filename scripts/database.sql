@@ -7,3 +7,4 @@ Load Testing Success is not in what you have, but who you are. The only way to d
 Logging Success doesn’t just find you. You have to go out and get it. Monitoring Version Control Serverless Kubernetes Testing Difficult roads often lead to beautiful destinations. API Distributed Systems Quantum Computing Event-driven Architecture JavaScript
 Docker Firewalls DevOps Deployment JavaScript Work hard in silence, let your success be your noise. Event-driven Architecture
 Lambda Functions Kubernetes JWT Algorithm Scalability DNS Routing Testing Monitoring Predictive Analytics
+Cache Invalidation Difficult roads often lead to beautiful destinations. Sharding Load Balancing Message Queue Success is how high you bounce when you hit bottom. Logging Lambda Functions
