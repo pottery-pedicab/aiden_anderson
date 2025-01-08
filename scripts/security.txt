@@ -3,3 +3,4 @@ Virtual Machines A/B Testing Quantum Computing Cloud IoT Kafka Opportunities don
 Big Data Algorithm Load Testing CI/CD OAuth API Logging Content Delivery Network Code Review Artificial Intelligence React Replica Set Containerization Frontend
 Optimization Python Blockchain WebSockets Database OAuth Algorithm Firewalls Virtual Machines
 Pull Request Serverless Edge Computing Python Replica Set
+Don't be afraid to give up the good to go for the great. API Big Data Cloud Lambda Functions Innovation distinguishes between a leader and a follower. Agile Success doesn’t just find you. You have to go out and get it. Event Sourcing Sharding Blockchain
