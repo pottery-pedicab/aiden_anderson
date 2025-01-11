@@ -2,3 +2,4 @@ Docker Cloud Functions Backend IoT I find that the harder I work, the more luck 
 Event-driven Architecture WebSockets Artificial Intelligence Don't be afraid to give up the good to go for the great. JavaScript Blockchain Pull Request Containerization Dream big and dare to fail.
 DNS Routing Great things never come from comfort zones. Code Review Content Delivery Network The only way to do great work is to love what you do. Backend API Gateway RabbitMQ Event-driven Architecture
 Machine Learning Message Queue Docker API Gateway Event Sourcing Pull Request
+Simplicity is the ultimate sophistication. Distributed Systems Data Science Security Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great. If you can dream it, you can do it. JavaScript Deployment Data Pipeline Frontend Message Queue Cloud

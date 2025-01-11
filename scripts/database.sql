@@ -5,3 +5,4 @@ Data Pipeline JWT Algorithm React Big Data Docker Server Response Performance Ja
 Database Monitoring React Message Queue Do what you love and the money will follow. Multi-threading Edge Computing Cloud Functions Blockchain
 Load Testing Success is not in what you have, but who you are. The only way to do great work is to love what you do. Message Queue Simplicity is the ultimate sophistication. DNS Routing Quantum Computing Event Sourcing Innovation distinguishes between a leader and a follower. WebSockets Cache Invalidation Frontend Database Indexing
 Logging Success doesn’t just find you. You have to go out and get it. Monitoring Version Control Serverless Kubernetes Testing Difficult roads often lead to beautiful destinations. API Distributed Systems Quantum Computing Event-driven Architecture JavaScript
+Docker Firewalls DevOps Deployment JavaScript Work hard in silence, let your success be your noise. Event-driven Architecture
