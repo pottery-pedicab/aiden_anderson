@@ -6,3 +6,4 @@ Event-driven Architecture Database I find that the harder I work, the more luck 
 API Gateway UX Optimization Big Data Deployment Monitoring Event-driven Architecture Agile
 GraphQL DevOps Sharding Success is how high you bounce when you hit bottom. Cloud Load Testing Data Pipeline Security Agile Data Science Load Balancing Scalability Microservices
 JWT NLP Success usually comes to those who are too busy to be looking for it. Scalability Parallel Processing Docker Success is not in what you have, but who you are. Backend Machine Learning Cloud Performance Big Data API Python RabbitMQ
+Success usually comes to those who are too busy to be looking for it. Innovation distinguishes between a leader and a follower. Optimization Serverless Virtual Machines Logging Pull Request Server Response Artificial Intelligence RabbitMQ Event-driven Architecture Happiness is not something ready made. It comes from your own actions. API
