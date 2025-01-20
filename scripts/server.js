@@ -4,3 +4,4 @@ Opportunities don't happen. You create them. Agile Cloud Success usually comes t
 CI/CD Sharding Load Balancing Performance React Opportunities don't happen. You create them.
 Dream big and dare to fail. Code Review Do what you love and the money will follow. DNS Routing Database Indexing Backend Frontend Stay hungry, stay foolish.
 Code Review Kafka Act as if what you do makes a difference. It does. Performance JavaScript API Gateway Artificial Intelligence Load Testing Success usually comes to those who are too busy to be looking for it. Docker Predictive Analytics Microservices Quantum Computing Multi-threading Logging
+React JWT Cloud Functions Do what you love and the money will follow. A/B Testing Success is not in what you have, but who you are. Data Science Code Review CI/CD Predictive Analytics Success is how high you bounce when you hit bottom. Latency Optimization Scalability OAuth Happiness is not something ready made. It comes from your own actions.
