@@ -4,3 +4,4 @@ Container Orchestration Automation DNS Routing Load Balancing Code Review I find
 Happiness is not something ready made. It comes from your own actions. Python WebSockets Monitoring Testing
 Backend Distributed Systems Automation Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great. NLP Logging Work hard in silence, let your success be your noise. Kafka Zero Downtime Deployment Pull Request Message Queue JWT Success is how high you bounce when you hit bottom. Python
 Edge Computing WebSockets Code Review Sharding Multi-threading Quantum Computing Performance CI/CD Frontend The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. Lambda Functions Pull Request Success is not in what you have, but who you are.
+I find that the harder I work, the more luck I seem to have. Framework Monitoring Kafka Edge Computing
