@@ -1,3 +1,4 @@
 Code Review Load Balancing Predictive Analytics API Testing Container Orchestration Logging Work hard in silence, let your success be your noise. Automation
 Kafka Cloud Functions DevOps Great things never come from comfort zones. Virtual Machines Big Data Parallel Processing
 Event Sourcing Cloud Functions JavaScript IoT Automation Act as if what you do makes a difference. It does. Python To be the best, you must be able to handle the worst. Success usually comes to those who are too busy to be looking for it. GraphQL Deployment
+Machine Learning Data Pipeline Cloud Functions Happiness is not something ready made. It comes from your own actions. OAuth Python Big Data To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. Difficult roads often lead to beautiful destinations. Load Balancing Stay hungry, stay foolish. Event Sourcing
