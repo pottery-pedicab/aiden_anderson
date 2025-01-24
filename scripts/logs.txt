@@ -1,2 +1,3 @@
 Docker WebSockets Event-driven Architecture Predictive Analytics Microservices Server Response Event Sourcing GraphQL If you can dream it, you can do it. JWT Database Database Indexing Deployment Data Science
 Automation CI/CD Opportunities don't happen. You create them. Python Quantum Computing Replica Set Server Response Great things never come from comfort zones. Pull Request Framework Performance Innovation distinguishes between a leader and a follower. Testing
+DNS Routing Success doesn’t just find you. You have to go out and get it. Parallel Processing Framework Multi-threading Backend Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Load Balancing Docker
