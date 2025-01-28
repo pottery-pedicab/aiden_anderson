@@ -1,3 +1,4 @@
 Logging DevOps Microservices Serverless NLP Frontend
 Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. Do what you love and the money will follow. Deployment Load Balancing Success is how high you bounce when you hit bottom. Microservices Artificial Intelligence Stay hungry, stay foolish.
 Parallel Processing CI/CD JavaScript Innovation distinguishes between a leader and a follower. Database Indexing Kubernetes
+UX Optimization Blockchain To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication. Data Science Testing Latency Optimization Backend Innovation distinguishes between a leader and a follower. Python Don't be afraid to give up the good to go for the great. Monitoring Machine Learning Serverless
