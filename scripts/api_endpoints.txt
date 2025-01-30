@@ -1,2 +1,3 @@
 Docker Cloud Functions Backend IoT I find that the harder I work, the more luck I seem to have. Kubernetes Simplicity is the ultimate sophistication. Pull Request Database Indexing Server Response
 Event-driven Architecture WebSockets Artificial Intelligence Don't be afraid to give up the good to go for the great. JavaScript Blockchain Pull Request Containerization Dream big and dare to fail.
+DNS Routing Great things never come from comfort zones. Code Review Content Delivery Network The only way to do great work is to love what you do. Backend API Gateway RabbitMQ Event-driven Architecture
