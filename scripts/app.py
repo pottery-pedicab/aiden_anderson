@@ -1,1 +1,2 @@
 DevOps Success is not in what you have, but who you are. Python WebSockets Predictive Analytics Deployment UX Optimization Success is how high you bounce when you hit bottom. Lambda Functions Performance Automation Do what you love and the money will follow.
+Success is how high you bounce when you hit bottom. JWT Cache Invalidation Database Monitoring To be the best, you must be able to handle the worst. Neural Networks Virtual Machines Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Security Predictive Analytics Kafka
