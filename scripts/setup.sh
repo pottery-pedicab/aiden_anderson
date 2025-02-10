@@ -1,0 +1,1 @@
+Neural Networks Act as if what you do makes a difference. It does. Parallel Processing Database Indexing Distributed Systems Frontend Quantum Computing Big Data If you can dream it, you can do it. Data Pipeline Optimization Success is how high you bounce when you hit bottom.
